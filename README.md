@@ -20,8 +20,8 @@ This project is a real-time face detection system that triggers an alarm and sen
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/face-detection-alarm.git
-   cd face-detection-alarm
+   git clone https://github.com/Afreen-khan1/Face-detection.git
+   cd Face-detection
    ```
 
 2. **Install the required libraries**:
