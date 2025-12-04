@@ -61,6 +61,9 @@ This project is a real-time face detection system that triggers an alarm and sen
 - **Adjust face detection sensitivity**: Modify the `scaleFactor` and `minNeighbors` parameters in the `detectMultiScale` function.
 
 
+## Developer
+Afreen Ahamed
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
